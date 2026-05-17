@@ -1,0 +1,956 @@
+[
+    {
+        "min_age": 2,
+        "max_age": 4,
+        "category": "social",
+        "description": "Calms down when spoken to or picked up"
+    },
+    {
+        "min_age": 2,
+        "max_age": 4,
+        "category": "social",
+        "description": "Looks at your face"
+    },
+    {
+        "min_age": 2,
+        "max_age": 4,
+        "category": "social",
+        "description": "Seems happy to see you when you walk up to her"
+    },
+    {
+        "min_age": 2,
+        "max_age": 4,
+        "category": "social",
+        "description": "Smiles when you talk to or smile at her"
+    },
+    {
+        "min_age": 2,
+        "max_age": 4,
+        "category": "language",
+        "description": "Makes sounds other than crying"
+    },
+    {
+        "min_age": 2,
+        "max_age": 4,
+        "category": "language",
+        "description": "Reacts to loud sounds"
+    },
+    {
+        "min_age": 2,
+        "max_age": 4,
+        "category": "cognitive",
+        "description": "Watches you as you move"
+    },
+    {
+        "min_age": 2,
+        "max_age": 4,
+        "category": "cognitive",
+        "description": "Looks at a toy for several seconds"
+    },
+    {
+        "min_age": 2,
+        "max_age": 4,
+        "category": "motor",
+        "description": "Holds head up when on tummy"
+    },
+    {
+        "min_age": 2,
+        "max_age": 4,
+        "category": "motor",
+        "description": "Moves both arms and both legs"
+    },
+    {
+        "min_age": 2,
+        "max_age": 4,
+        "category": "motor",
+        "description": "Opens hands briefly"
+    },
+    {
+        "min_age": 4,
+        "max_age": 6,
+        "category": "social",
+        "description": "Smiles on his own to get your attention"
+    },
+    {
+        "min_age": 4,
+        "max_age": 6,
+        "category": "social",
+        "description": "Chuckles (not yet a full laugh) when you try to make her laugh"
+    },
+    {
+        "min_age": 4,
+        "max_age": 6,
+        "category": "social",
+        "description": "Looks at you, moves, or makes sounds to get or keep your attention"
+    },
+    {
+        "min_age": 4,
+        "max_age": 6,
+        "category": "language",
+        "description": "Makes sounds like \u201coooo\u201d, \u201caahh\u201d (cooing)"
+    },
+    {
+        "min_age": 4,
+        "max_age": 6,
+        "category": "language",
+        "description": "Makes sounds back when you talk to him"
+    },
+    {
+        "min_age": 4,
+        "max_age": 6,
+        "category": "cognitive",
+        "description": "Turns head towards the sound of your voice"
+    },
+    {
+        "min_age": 4,
+        "max_age": 6,
+        "category": "cognitive",
+        "description": "If hungry, opens mouth when he/she sees breast or bottle"
+    },
+    {
+        "min_age": 4,
+        "max_age": 6,
+        "category": "cognitive",
+        "description": "Looks at his/her hands with interest"
+    },
+    {
+        "min_age": 4,
+        "max_age": 6,
+        "category": "motor",
+        "description": "Holds head steady without support when you are holding her/him"
+    },
+    {
+        "min_age": 4,
+        "max_age": 6,
+        "category": "motor",
+        "description": "Holds a toy when you put it in his hand"
+    },
+    {
+        "min_age": 4,
+        "max_age": 6,
+        "category": "motor",
+        "description": "Uses her arm to swing at toys"
+    },
+    {
+        "min_age": 4,
+        "max_age": 6,
+        "category": "motor",
+        "description": "Brings hands to mouth"
+    },
+    {
+        "min_age": 4,
+        "max_age": 6,
+        "category": "motor",
+        "description": "Pushes up to elbows/forearms when on tummy"
+    },
+    {
+        "min_age": 6,
+        "max_age": 9,
+        "category": "social",
+        "description": "Knows familiar people"
+    },
+    {
+        "min_age": 6,
+        "max_age": 9,
+        "category": "social",
+        "description": "Likes to look at himself in a mirror"
+    },
+    {
+        "min_age": 6,
+        "max_age": 9,
+        "category": "social",
+        "description": "Laughs"
+    },
+    {
+        "min_age": 6,
+        "max_age": 9,
+        "category": "language",
+        "description": "Takes turns making sounds with you"
+    },
+    {
+        "min_age": 6,
+        "max_age": 9,
+        "category": "language",
+        "description": "Blows \u201craspberries\u201d (sticks tongue out and blows)"
+    },
+    {
+        "min_age": 6,
+        "max_age": 9,
+        "category": "language",
+        "description": "Makes squealing noises"
+    },
+    {
+        "min_age": 6,
+        "max_age": 9,
+        "category": "cognitive",
+        "description": "Puts things in her mouth to explore them"
+    },
+    {
+        "min_age": 6,
+        "max_age": 9,
+        "category": "cognitive",
+        "description": "Reaches to grab a toy he wants"
+    },
+    {
+        "min_age": 6,
+        "max_age": 9,
+        "category": "cognitive",
+        "description": "Closes lips to show she doesn\u2019t want more food"
+    },
+    {
+        "min_age": 6,
+        "max_age": 9,
+        "category": "motor",
+        "description": "Rolls from tummy to back"
+    },
+    {
+        "min_age": 6,
+        "max_age": 9,
+        "category": "motor",
+        "description": "Pushes up with straight arms when on tummy"
+    },
+    {
+        "min_age": 6,
+        "max_age": 9,
+        "category": "motor",
+        "description": "Leans on hands to support himself when sitting"
+    },
+    {
+        "min_age": 9,
+        "max_age": 12,
+        "category": "social",
+        "description": "Is shy, clingy, or fearful around strangers"
+    },
+    {
+        "min_age": 9,
+        "max_age": 12,
+        "category": "social",
+        "description": "Shows several facial expressions, like happy, sad, angry and surprised"
+    },
+    {
+        "min_age": 9,
+        "max_age": 12,
+        "category": "social",
+        "description": "Looks when you call her name"
+    },
+    {
+        "min_age": 9,
+        "max_age": 12,
+        "category": "social",
+        "description": "Reacts when you leave (looks, reaches for you, or cries)"
+    },
+    {
+        "min_age": 9,
+        "max_age": 12,
+        "category": "social",
+        "description": "Smiles or laughs when you play peek-a-boo"
+    },
+    {
+        "min_age": 9,
+        "max_age": 12,
+        "category": "language",
+        "description": "Makes different sounds like \u201cmamamama\u201d and \u201cbabababa\u201d"
+    },
+    {
+        "min_age": 9,
+        "max_age": 12,
+        "category": "language",
+        "description": "Lifts arms up to be picked up"
+    },
+    {
+        "min_age": 9,
+        "max_age": 12,
+        "category": "cognitive",
+        "description": "Looks for objects when dropped out of sight (like his spoon or toy)"
+    },
+    {
+        "min_age": 9,
+        "max_age": 12,
+        "category": "cognitive",
+        "description": "Bangs two things together"
+    },
+    {
+        "min_age": 9,
+        "max_age": 12,
+        "category": "motor",
+        "description": "Gets to a sitting position by herself"
+    },
+    {
+        "min_age": 9,
+        "max_age": 12,
+        "category": "motor",
+        "description": "Moves things from one hand to her other hand"
+    },
+    {
+        "min_age": 9,
+        "max_age": 12,
+        "category": "motor",
+        "description": "Uses fingers to \u201crake\u201d food towards himself"
+    },
+    {
+        "min_age": 9,
+        "max_age": 12,
+        "category": "motor",
+        "description": "Sits without support"
+    },
+    {
+        "min_age": 12,
+        "max_age": 15,
+        "category": "social",
+        "description": "Plays games with you, like pat-a-cake"
+    },
+    {
+        "min_age": 12,
+        "max_age": 15,
+        "category": "language",
+        "description": "Waves \u201cbye-bye\u201d"
+    },
+    {
+        "min_age": 12,
+        "max_age": 15,
+        "category": "language",
+        "description": "Calls a parent \u201cmama\u201d or \u201cdada\u201d or another special"
+    },
+    {
+        "min_age": 12,
+        "max_age": 15,
+        "category": "language",
+        "description": "Understands \u201cno\u201d (pauses briefly or stops when you say it"
+    },
+    {
+        "min_age": 12,
+        "max_age": 15,
+        "category": "cognitive",
+        "description": "Puts something in a container, like a block in a cup"
+    },
+    {
+        "min_age": 12,
+        "max_age": 15,
+        "category": "cognitive",
+        "description": "Looks for things he sees you hide, like a toy under a blanket"
+    },
+    {
+        "min_age": 12,
+        "max_age": 15,
+        "category": "motor",
+        "description": "Pulls up to stand"
+    },
+    {
+        "min_age": 12,
+        "max_age": 15,
+        "category": "motor",
+        "description": "Walks, holding on to furniture"
+    },
+    {
+        "min_age": 12,
+        "max_age": 15,
+        "category": "motor",
+        "description": "Drinks from a cup without a lid, as you hold it"
+    },
+    {
+        "min_age": 12,
+        "max_age": 15,
+        "category": "motor",
+        "description": "Picks things up between thumb and pointer finger, like small pieces of food"
+    },
+    {
+        "min_age": 15,
+        "max_age": 18,
+        "category": "social",
+        "description": "Copies other children while playing, like taking toys out of a container when another child does"
+    },
+    {
+        "min_age": 15,
+        "max_age": 18,
+        "category": "social",
+        "description": "Shows you an object she likes"
+    },
+    {
+        "min_age": 15,
+        "max_age": 18,
+        "category": "social",
+        "description": "Claps when excited"
+    },
+    {
+        "min_age": 15,
+        "max_age": 18,
+        "category": "social",
+        "description": "Hugs stuffed doll or other toy"
+    },
+    {
+        "min_age": 15,
+        "max_age": 18,
+        "category": "social",
+        "description": "Shows you affection (hugs, cuddles, or kisses you)"
+    },
+    {
+        "min_age": 15,
+        "max_age": 18,
+        "category": "language",
+        "description": "Tries to say one or two words besides \u201cmama\u201d or \u201cdada,\u201d like \u201cba\u201d for ball or \u201cda\u201d for dog"
+    },
+    {
+        "min_age": 15,
+        "max_age": 18,
+        "category": "language",
+        "description": "Looks at a familiar object when you name it"
+    },
+    {
+        "min_age": 15,
+        "max_age": 18,
+        "category": "language",
+        "description": "Follows directions given with both a gesture and words. For example, he gives you a toy when you hold out your hand and say, \u201cGive me the toy.\u201d "
+    },
+    {
+        "min_age": 15,
+        "max_age": 18,
+        "category": "language",
+        "description": "Points to ask for something or to get help"
+    },
+    {
+        "min_age": 15,
+        "max_age": 18,
+        "category": "cognitive",
+        "description": "Tries to use things the right way, like a phone, cup, or book"
+    },
+    {
+        "min_age": 15,
+        "max_age": 18,
+        "category": "cognitive",
+        "description": "Stacks at least two small objects, like blocks"
+    },
+    {
+        "min_age": 15,
+        "max_age": 18,
+        "category": "motor",
+        "description": "Takes a few steps on his own"
+    },
+    {
+        "min_age": 15,
+        "max_age": 18,
+        "category": "motor",
+        "description": "Uses fingers to feed herself some food"
+    },
+    {
+        "min_age": 18,
+        "max_age": 24,
+        "category": "social",
+        "description": "Moves away from you, but looks to make sure you are close by"
+    },
+    {
+        "min_age": 18,
+        "max_age": 24,
+        "category": "social",
+        "description": "Points to show you something interesting"
+    },
+    {
+        "min_age": 18,
+        "max_age": 24,
+        "category": "social",
+        "description": "Puts hands out for you to wash them"
+    },
+    {
+        "min_age": 18,
+        "max_age": 24,
+        "category": "social",
+        "description": "Looks at a few pages in a book with you"
+    },
+    {
+        "min_age": 18,
+        "max_age": 24,
+        "category": "social",
+        "description": "Helps you dress him by pushing arm through sleeve or lifting up foot"
+    },
+    {
+        "min_age": 18,
+        "max_age": 24,
+        "category": "language",
+        "description": "Tries to say three or more words besides \u201cmama\u201d or \u201cdada\u201d"
+    },
+    {
+        "min_age": 18,
+        "max_age": 24,
+        "category": "language",
+        "description": "Follows one-step directions without any gestures, like giving you the toy when you say, \u201cGive it to me.\u201d"
+    },
+    {
+        "min_age": 18,
+        "max_age": 24,
+        "category": "cognitive",
+        "description": "Copies you doing chores, like sweeping with a broom"
+    },
+    {
+        "min_age": 18,
+        "max_age": 24,
+        "category": "cognitive",
+        "description": "Plays with toys in a simple way, like pushing a toy car"
+    },
+    {
+        "min_age": 18,
+        "max_age": 24,
+        "category": "motor",
+        "description": "Walks without holding on to anyone or anything"
+    },
+    {
+        "min_age": 18,
+        "max_age": 24,
+        "category": "motor",
+        "description": "Scribbles"
+    },
+    {
+        "min_age": 18,
+        "max_age": 24,
+        "category": "motor",
+        "description": "Drinks from a cup without a lid and may spill sometimes"
+    },
+    {
+        "min_age": 18,
+        "max_age": 24,
+        "category": "motor",
+        "description": "Feeds herself with her fingers"
+    },
+    {
+        "min_age": 18,
+        "max_age": 24,
+        "category": "motor",
+        "description": "Tries to use a spoon"
+    },
+    {
+        "min_age": 18,
+        "max_age": 24,
+        "category": "motor",
+        "description": "Climbs on and off a couch or chair without help"
+    },
+    {
+        "min_age": 24,
+        "max_age": 30,
+        "category": "social",
+        "description": "Notices when others are hurt or upset, like pausing or looking sad when someone is crying"
+    },
+    {
+        "min_age": 24,
+        "max_age": 30,
+        "category": "social",
+        "description": "Looks at your face to see how to react in a new situation"
+    },
+    {
+        "min_age": 24,
+        "max_age": 30,
+        "category": "language",
+        "description": "Points to things in a book when you ask, like \u201cWhere is the bear?\u201d"
+    },
+    {
+        "min_age": 24,
+        "max_age": 30,
+        "category": "language",
+        "description": "Says at least two words together, like \u201cMore milk.\u201d"
+    },
+    {
+        "min_age": 24,
+        "max_age": 30,
+        "category": "language",
+        "description": "Points to at least two body parts when you ask him or her to show you"
+    },
+    {
+        "min_age": 24,
+        "max_age": 30,
+        "category": "language",
+        "description": "Uses more gestures than just waving and pointing, like turning his or her head to say \u201cno\u201d"
+    },
+    {
+        "min_age": 24,
+        "max_age": 30,
+        "category": "cognitive",
+        "description": "Holds something in one hand while using the other hand;for example, holding a container and taking the lid off"
+    },
+    {
+        "min_age": 24,
+        "max_age": 30,
+        "category": "cognitive",
+        "description": "Tries to use switches, knobs, or buttons on a toy"
+    },
+    {
+        "min_age": 24,
+        "max_age": 30,
+        "category": "cognitive",
+        "description": "Plays with more than one toy at the same time, like putting toy food on a toy plate"
+    },
+    {
+        "min_age": 24,
+        "max_age": 30,
+        "category": "motor",
+        "description": "Kicks a ball"
+    },
+    {
+        "min_age": 24,
+        "max_age": 30,
+        "category": "motor",
+        "description": "Runs"
+    },
+    {
+        "min_age": 24,
+        "max_age": 30,
+        "category": "motor",
+        "description": "Eats with a spoon"
+    },
+    {
+        "min_age": 24,
+        "max_age": 30,
+        "category": "motor",
+        "description": "Walks (not climbs) up a few stairs with or without help"
+    },
+    {
+        "min_age": 30,
+        "max_age": 36,
+        "category": "social",
+        "description": "Plays next to other children and sometimes plays with them"
+    },
+    {
+        "min_age": 30,
+        "max_age": 36,
+        "category": "social",
+        "description": "Shows you what she can do by saying, \u201cLook at me!\u201d"
+    },
+    {
+        "min_age": 30,
+        "max_age": 36,
+        "category": "social",
+        "description": "Follows simple routines when told, like helping to pick up toys when you say, \u201cIt\u2019s clean-up time.\u201d"
+    },
+    {
+        "min_age": 30,
+        "max_age": 36,
+        "category": "language",
+        "description": "Says about 50 words"
+    },
+    {
+        "min_age": 30,
+        "max_age": 36,
+        "category": "language",
+        "description": "Says two or more words together, with one action word, like \u201cDoggie run\u201d"
+    },
+    {
+        "min_age": 30,
+        "max_age": 36,
+        "category": "language",
+        "description": "Names things in a book when you point and ask, \u201cWhat is this?\u201d"
+    },
+    {
+        "min_age": 30,
+        "max_age": 36,
+        "category": "language",
+        "description": "Says words like \u201cI,\u201d \u201cme,\u201d or \u201cwe\u201d"
+    },
+    {
+        "min_age": 30,
+        "max_age": 36,
+        "category": "cognitive",
+        "description": "Uses things to pretend, like feeding a block to a doll as if it were food"
+    },
+    {
+        "min_age": 30,
+        "max_age": 36,
+        "category": "cognitive",
+        "description": "Follows two-step instructions like \u201cPut the toy down and close to the door.\u201d"
+    },
+    {
+        "min_age": 30,
+        "max_age": 36,
+        "category": "cognitive",
+        "description": "Shows he knows at least one color, like pointing to a red crayon when you ask, \u201cWhich one is red?\u201d"
+    },
+    {
+        "min_age": 30,
+        "max_age": 36,
+        "category": "cognitive",
+        "description": "Shows simple problem-solving skills, like standing on a small stool to reach something"
+    },
+    {
+        "min_age": 30,
+        "max_age": 36,
+        "category": "motor",
+        "description": "Uses hands to twist things, like turning doorknobs or unscrewing lids"
+    },
+    {
+        "min_age": 30,
+        "max_age": 36,
+        "category": "motor",
+        "description": "Takes some clothes off by himself, like loose pants or an open jacket"
+    },
+    {
+        "min_age": 30,
+        "max_age": 36,
+        "category": "motor",
+        "description": "Jumps off the ground with both feet"
+    },
+    {
+        "min_age": 30,
+        "max_age": 36,
+        "category": "motor",
+        "description": "Turns book pages, one at a time, when you read to her"
+    },
+    {
+        "min_age": 36,
+        "max_age": 48,
+        "category": "social",
+        "description": "Calms down within 10 minutes after you leave her,like at a childcare drop off"
+    },
+    {
+        "min_age": 36,
+        "max_age": 48,
+        "category": "social",
+        "description": "Notices other children and joins them to play"
+    },
+    {
+        "min_age": 36,
+        "max_age": 48,
+        "category": "language",
+        "description": "Talks with you in conversation using at least two back-and-forth exchanges"
+    },
+    {
+        "min_age": 36,
+        "max_age": 48,
+        "category": "language",
+        "description": "Asks \u201cwho,\u201d \u201cwhat,\u201d \u201cwhere,\u201d or \u201cwhy\u201d questions,like \u201cWhere is mommy/daddy?\u201d"
+    },
+    {
+        "min_age": 36,
+        "max_age": 48,
+        "category": "language",
+        "description": "Says what action is happening in a picture or book when asked, like \u201crunning,\u201d \u201ceating,\u201d or \u201cplaying\u201d"
+    },
+    {
+        "min_age": 36,
+        "max_age": 48,
+        "category": "language",
+        "description": "Says first name, when asked"
+    },
+    {
+        "min_age": 36,
+        "max_age": 48,
+        "category": "language",
+        "description": "Talks well enough for others to understand, most of the time"
+    },
+    {
+        "min_age": 36,
+        "max_age": 48,
+        "category": "cognitive",
+        "description": "Draws a circle, when you show him how"
+    },
+    {
+        "min_age": 36,
+        "max_age": 48,
+        "category": "cognitive",
+        "description": "Avoids touching hot objects, like a stove, when you warn her"
+    },
+    {
+        "min_age": 36,
+        "max_age": 48,
+        "category": "motor",
+        "description": "Strings items together, like large beads or macaroni"
+    },
+    {
+        "min_age": 36,
+        "max_age": 48,
+        "category": "motor",
+        "description": "Puts on some clothes by himself, like loose pants or a jacket"
+    },
+    {
+        "min_age": 36,
+        "max_age": 48,
+        "category": "motor",
+        "description": "Uses a fork"
+    },
+    {
+        "min_age": 48,
+        "max_age": 60,
+        "category": "social",
+        "description": "Pretends to be something else during play (teacher, superhero, dog)"
+    },
+    {
+        "min_age": 48,
+        "max_age": 60,
+        "category": "social",
+        "description": "Asks to go play with children if none are around, like \u201cCan I play with Alex?\u201d"
+    },
+    {
+        "min_age": 48,
+        "max_age": 60,
+        "category": "social",
+        "description": "Comforts others who are hurt or sad, like hugging a crying friend"
+    },
+    {
+        "min_age": 48,
+        "max_age": 60,
+        "category": "social",
+        "description": "Avoids danger, like not jumping from tall heights at the playground"
+    },
+    {
+        "min_age": 48,
+        "max_age": 60,
+        "category": "social",
+        "description": "Likes to be a \u201chelper\u201d"
+    },
+    {
+        "min_age": 48,
+        "max_age": 60,
+        "category": "social",
+        "description": "Changes behavior based on where she is (place of worship, library, playground)"
+    },
+    {
+        "min_age": 48,
+        "max_age": 60,
+        "category": "language",
+        "description": "Says sentences with four or more words"
+    },
+    {
+        "min_age": 48,
+        "max_age": 60,
+        "category": "language",
+        "description": "Says some words from a song, story, or nursery rhyme"
+    },
+    {
+        "min_age": 48,
+        "max_age": 60,
+        "category": "language",
+        "description": "Talks about at least one thing that happened during his day, like \u201cI played soccer.\u201d"
+    },
+    {
+        "min_age": 48,
+        "max_age": 60,
+        "category": "language",
+        "description": "Answers simple questions like \u201cWhat is a coat for?\u201dor \u201cWhat is a crayon for?\u201d"
+    },
+    {
+        "min_age": 48,
+        "max_age": 60,
+        "category": "cognitive",
+        "description": "Names a few colors of items"
+    },
+    {
+        "min_age": 48,
+        "max_age": 60,
+        "category": "cognitive",
+        "description": "Tells what comes next in a well-known story"
+    },
+    {
+        "min_age": 48,
+        "max_age": 60,
+        "category": "cognitive",
+        "description": "Draws a person with three or more body parts"
+    },
+    {
+        "min_age": 48,
+        "max_age": 60,
+        "category": "motor",
+        "description": "Catches a large ball most of the time"
+    },
+    {
+        "min_age": 48,
+        "max_age": 60,
+        "category": "motor",
+        "description": "Serves himself food or pours water, with adult supervision"
+    },
+    {
+        "min_age": 48,
+        "max_age": 60,
+        "category": "motor",
+        "description": "Unbuttons some buttons"
+    },
+    {
+        "min_age": 48,
+        "max_age": 60,
+        "category": "motor",
+        "description": "Holds crayon or pencil between fingers and thumb (not a fist)"
+    },
+    {
+        "min_age": 60,
+        "max_age": 61,
+        "category": "social",
+        "description": "Follows rules or takes turns when playing games with other children"
+    },
+    {
+        "min_age": 60,
+        "max_age": 61,
+        "category": "social",
+        "description": "Sings, dances, or acts for you"
+    },
+    {
+        "min_age": 60,
+        "max_age": 61,
+        "category": "social",
+        "description": "Does simple chores at home, like matching socks or clearing the table after eating"
+    },
+    {
+        "min_age": 60,
+        "max_age": 61,
+        "category": "language",
+        "description": "Tells a story she heard or made up with at least two events. For example, a cat was stuck in a tree and a firefighter saved it"
+    },
+    {
+        "min_age": 60,
+        "max_age": 61,
+        "category": "language",
+        "description": "Answers simple questions about a book or story after you read or tell it to him"
+    },
+    {
+        "min_age": 60,
+        "max_age": 61,
+        "category": "language",
+        "description": "Keeps a conversation going with more than three back-and-forth exchanges"
+    },
+    {
+        "min_age": 60,
+        "max_age": 61,
+        "category": "language",
+        "description": "Uses or recognizes simple rhymes (bat-cat, ball-tall)"
+    },
+    {
+        "min_age": 60,
+        "max_age": 61,
+        "category": "cognitive",
+        "description": "Counts to 10"
+    },
+    {
+        "min_age": 60,
+        "max_age": 61,
+        "category": "cognitive",
+        "description": "Names some numbers between 1 and 5 when you point to them"
+    },
+    {
+        "min_age": 60,
+        "max_age": 61,
+        "category": "cognitive",
+        "description": "Uses words about time, like \u201cyesterday,\u201d \u201ctomorrow,\u201d \u201cmorning,\u201d or \u201cnight\u201d"
+    },
+    {
+        "min_age": 60,
+        "max_age": 61,
+        "category": "cognitive",
+        "description": "Pays attention for 5 to 10 minutes during activities.For example, during story time or making arts and crafts (screen time does not count)"
+    },
+    {
+        "min_age": 60,
+        "max_age": 61,
+        "category": "cognitive",
+        "description": "Writes some letters in her name"
+    },
+    {
+        "min_age": 60,
+        "max_age": 61,
+        "category": "cognitive",
+        "description": "Names some letters when you point to them"
+    },
+    {
+        "min_age": 60,
+        "max_age": 61,
+        "category": "motor",
+        "description": "Buttons some buttons"
+    },
+    {
+        "min_age": 60,
+        "max_age": 61,
+        "category": "motor",
+        "description": "Hops on one foot"
+    }
+]

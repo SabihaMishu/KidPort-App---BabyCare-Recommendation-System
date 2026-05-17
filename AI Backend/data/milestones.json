@@ -1,0 +1,797 @@
+[
+    {
+        "age_months": 2,
+        "category": "social",
+        "description": "Calms down when spoken to or picked up"
+    },
+    {
+        "age_months": 2,
+        "category": "social",
+        "description": "Looks at your face"
+    },
+    {
+        "age_months": 2,
+        "category": "social",
+        "description": "Seems happy to see you when you walk up to her"
+    },
+    {
+        "age_months": 2,
+        "category": "social",
+        "description": "Smiles when you talk to or smile at her"
+    },
+    {
+        "age_months": 2,
+        "category": "language",
+        "description": "Makes sounds other than crying"
+    },
+    {
+        "age_months": 2,
+        "category": "language",
+        "description": "Reacts to loud sounds"
+    },
+    {
+        "age_months": 2,
+        "category": "cognitive",
+        "description": "Watches you as you move"
+    },
+    {
+        "age_months": 2,
+        "category": "cognitive",
+        "description": "Looks at a toy for several seconds"
+    },
+    {
+        "age_months": 2,
+        "category": "motor",
+        "description": "Holds head up when on tummy"
+    },
+    {
+        "age_months": 2,
+        "category": "motor",
+        "description": "Moves both arms and both legs"
+    },
+    {
+        "age_months": 2,
+        "category": "motor",
+        "description": "Opens hands briefly"
+    },
+    {
+        "age_months": 4,
+        "category": "social",
+        "description": "Smiles on his own to get your attention"
+    },
+    {
+        "age_months": 4,
+        "category": "social",
+        "description": "Chuckles (not yet a full laugh) when you try to make her laugh"
+    },
+    {
+        "age_months": 4,
+        "category": "social",
+        "description": "Looks at you, moves, or makes sounds to get or keep your attention"
+    },
+    {
+        "age_months": 4,
+        "category": "language",
+        "description": "Makes sounds like “oooo”, “aahh” (cooing)"
+    },
+    {
+        "age_months": 4,
+        "category": "language",
+        "description": "Makes sounds back when you talk to him"
+    },
+    {
+        "age_months": 4,
+        "category": "cognitive",
+        "description": "Turns head towards the sound of your voice"
+    },
+    {
+        "age_months": 4,
+        "category": "cognitive",
+        "description": "If hungry, opens mouth when he/she sees breast or bottle"
+    },
+    {
+        "age_months": 4,
+        "category": "cognitive",
+        "description": "Looks at his/her hands with interest"
+    },
+    {
+        "age_months": 4,
+        "category": "motor",
+        "description": "Holds head steady without support when you are holding her/him"
+    },
+    {
+        "age_months": 4,
+        "category": "motor",
+        "description": "Holds a toy when you put it in his hand"
+    },
+    {
+        "age_months": 4,
+        "category": "motor",
+        "description": "Uses her arm to swing at toys"
+    },
+    {
+        "age_months": 4,
+        "category": "motor",
+        "description": "Brings hands to mouth"
+    },
+    {
+        "age_months": 4,
+        "category": "motor",
+        "description": "Pushes up to elbows/forearms when on tummy"
+    },
+    {
+        "age_months": 6,
+        "category": "social",
+        "description": "Knows familiar people"
+    },
+    {
+        "age_months": 6,
+        "category": "social",
+        "description": "Likes to look at himself in a mirror"
+    },
+    {
+        "age_months": 6,
+        "category": "social",
+        "description": "Laughs"
+    },
+    {
+        "age_months": 6,
+        "category": "language",
+        "description": "Takes turns making sounds with you"
+    },
+    {
+        "age_months": 6,
+        "category": "language",
+        "description": "Blows “raspberries” (sticks tongue out and blows)"
+    },
+    {
+        "age_months": 6,
+        "category": "language",
+        "description": "Makes squealing noises"
+    },
+    {
+        "age_months": 6,
+        "category": "cognitive",
+        "description": "Puts things in her mouth to explore them"
+    },
+    {
+        "age_months": 6,
+        "category": "cognitive",
+        "description": "Reaches to grab a toy he wants"
+    },
+    {
+        "age_months": 6,
+        "category": "cognitive",
+        "description": "Closes lips to show she doesn’t want more food"
+    },
+    {
+        "age_months": 6,
+        "category": "motor",
+        "description": "Rolls from tummy to back"
+    },
+    {
+        "age_months": 6,
+        "category": "motor",
+        "description": "Pushes up with straight arms when on tummy"
+    },
+    {
+        "age_months": 6,
+        "category": "motor",
+        "description": "Leans on hands to support himself when sitting"
+    },
+    {
+        "age_months": 9,
+        "category": "social",
+        "description": "Is shy, clingy, or fearful around strangers"
+    },
+    {
+        "age_months": 9,
+        "category": "social",
+        "description": "Shows several facial expressions, like happy, sad, angry and surprised"
+    },
+    {
+        "age_months": 9,
+        "category": "social",
+        "description": "Looks when you call her name"
+    },
+    {
+        "age_months": 9,
+        "category": "social",
+        "description": "Reacts when you leave (looks, reaches for you, or cries)"
+    },
+    {
+        "age_months": 9,
+        "category": "social",
+        "description": "Smiles or laughs when you play peek-a-boo"
+    },
+    {
+        "age_months": 9,
+        "category": "language",
+        "description": "Makes different sounds like “mamamama” and “babababa”"
+    },
+    {
+        "age_months": 9,
+        "category": "language",
+        "description": "Lifts arms up to be picked up"
+    },
+    {
+        "age_months": 9,
+        "category": "cognitive",
+        "description": "Looks for objects when dropped out of sight (like his spoon or toy)"
+    },
+    {
+        "age_months": 9,
+        "category": "cognitive",
+        "description": "Bangs two things together"
+    },
+    {
+        "age_months": 9,
+        "category": "motor",
+        "description": "Gets to a sitting position by herself"
+    },
+    {
+        "age_months": 9,
+        "category": "motor",
+        "description": "Moves things from one hand to her other hand"
+    },
+    {
+        "age_months": 9,
+        "category": "motor",
+        "description": "Uses fingers to “rake” food towards himself"
+    },
+    {
+        "age_months": 9,
+        "category": "motor",
+        "description": "Sits without support"
+    },
+    {
+        "age_months": 12,
+        "category": "social",
+        "description": "Plays games with you, like pat-a-cake"
+    },
+    {
+        "age_months": 12,
+        "category": "language",
+        "description": "Waves “bye-bye”"
+    },
+    {
+        "age_months": 12,
+        "category": "language",
+        "description": "Calls a parent “mama” or “dada” or another special"
+    },
+    {
+        "age_months": 12,
+        "category": "language",
+        "description": "Understands “no” (pauses briefly or stops when you say it"
+    },
+    {
+        "age_months": 12,
+        "category": "cognitive",
+        "description": "Puts something in a container, like a block in a cup"
+    },
+    {
+        "age_months": 12,
+        "category": "cognitive",
+        "description": "Looks for things he sees you hide, like a toy under a blanket"
+    },
+    {
+        "age_months": 12,
+        "category": "motor",
+        "description": "Pulls up to stand"
+    },
+    {
+        "age_months": 12,
+        "category": "motor",
+        "description": "Walks, holding on to furniture"
+    },
+    {
+        "age_months": 12,
+        "category": "motor",
+        "description": "Drinks from a cup without a lid, as you hold it"
+    },
+    {
+        "age_months": 12,
+        "category": "motor",
+        "description": "Picks things up between thumb and pointer finger, like small pieces of food"
+    },
+    {
+        "age_months": 15,
+        "category": "social",
+        "description": "Copies other children while playing, like taking toys out of a container when another child does"
+    },
+    {
+        "age_months": 15,
+        "category": "social",
+        "description": "Shows you an object she likes"
+    },
+    {
+        "age_months": 15,
+        "category": "social",
+        "description": "Claps when excited"
+    },
+    {
+        "age_months": 15,
+        "category": "social",
+        "description": "Hugs stuffed doll or other toy"
+    },
+    {
+        "age_months": 15,
+        "category": "social",
+        "description": "Shows you affection (hugs, cuddles, or kisses you)"
+    },
+    {
+        "age_months": 15,
+        "category": "language",
+        "description": "Tries to say one or two words besides “mama” or “dada,” like “ba” for ball or “da” for dog"
+    },
+    {
+        "age_months": 15,
+        "category": "language",
+        "description": "Looks at a familiar object when you name it"
+    },
+    {
+        "age_months": 15,
+        "category": "language",
+        "description": "Follows directions given with both a gesture and words. For example, he gives you a toy when you hold out your hand and say, “Give me the toy.” "
+    },
+    {
+        "age_months": 15,
+        "category": "language",
+        "description": "Points to ask for something or to get help"
+    },
+    {
+        "age_months": 15,
+        "category": "cognitive",
+        "description": "Tries to use things the right way, like a phone, cup, or book"
+    },
+    {
+        "age_months": 15,
+        "category": "cognitive",
+        "description": "Stacks at least two small objects, like blocks"
+    },
+    {
+        "age_months": 15,
+        "category": "motor",
+        "description": "Takes a few steps on his own"
+    },
+    {
+        "age_months": 15,
+        "category": "motor",
+        "description": "Uses fingers to feed herself some food"
+    },
+    {
+        "age_months": 18,
+        "category": "social",
+        "description": "Moves away from you, but looks to make sure you are close by"
+    },
+    {
+        "age_months": 18,
+        "category": "social",
+        "description": "Points to show you something interesting"
+    },
+    {
+        "age_months": 18,
+        "category": "social",
+        "description": "Puts hands out for you to wash them"
+    },
+    {
+        "age_months": 18,
+        "category": "social",
+        "description": "Looks at a few pages in a book with you"
+    },
+    {
+        "age_months": 18,
+        "category": "social",
+        "description": "Helps you dress him by pushing arm through sleeve or lifting up foot"
+    },
+    {
+        "age_months": 18,
+        "category": "language",
+        "description": "Tries to say three or more words besides “mama” or “dada”"
+    },
+    {
+        "age_months": 18,
+        "category": "language",
+        "description": "Follows one-step directions without any gestures, like giving you the toy when you say, “Give it to me.”"
+    },
+    {
+        "age_months": 18,
+        "category": "cognitive",
+        "description": "Copies you doing chores, like sweeping with a broom"
+    },
+    {
+        "age_months": 18,
+        "category": "cognitive",
+        "description": "Plays with toys in a simple way, like pushing a toy car"
+    },
+    {
+        "age_months": 18,
+        "category": "motor",
+        "description": "Walks without holding on to anyone or anything"
+    },
+    {
+        "age_months": 18,
+        "category": "motor",
+        "description": "Scribbles"
+    },
+    {
+        "age_months": 18,
+        "category": "motor",
+        "description": "Drinks from a cup without a lid and may spill sometimes"
+    },
+    {
+        "age_months": 18,
+        "category": "motor",
+        "description": "Feeds herself with her fingers"
+    },
+    {
+        "age_months": 18,
+        "category": "motor",
+        "description": "Tries to use a spoon"
+    },
+    {
+        "age_months": 18,
+        "category": "motor",
+        "description": "Climbs on and off a couch or chair without help"
+    },
+    {
+        "age_months": 24,
+        "category": "social",
+        "description": "Notices when others are hurt or upset, like pausing or looking sad when someone is crying"
+    },
+    {
+        "age_months": 24,
+        "category": "social",
+        "description": "Looks at your face to see how to react in a new situation"
+    },
+    {
+        "age_months": 24,
+        "category": "language",
+        "description": "Points to things in a book when you ask, like “Where is the bear?”"
+    },
+    {
+        "age_months": 24,
+        "category": "language",
+        "description": "Says at least two words together, like “More milk.”"
+    },
+    {
+        "age_months": 24,
+        "category": "language",
+        "description": "Points to at least two body parts when you ask him or her to show you"
+    },
+    {
+        "age_months": 24,
+        "category": "language",
+        "description": "Uses more gestures than just waving and pointing, like turning his or her head to say “no”"
+    },
+    {
+        "age_months": 24,
+        "category": "cognitive",
+        "description": "Holds something in one hand while using the other hand;for example, holding a container and taking the lid off"
+    },
+    {
+        "age_months": 24,
+        "category": "cognitive",
+        "description": "Tries to use switches, knobs, or buttons on a toy"
+    },
+    {
+        "age_months": 24,
+        "category": "cognitive",
+        "description": "Plays with more than one toy at the same time, like putting toy food on a toy plate"
+    },
+    {
+        "age_months": 24,
+        "category": "motor",
+        "description": "Kicks a ball"
+    },
+    {
+        "age_months": 24,
+        "category": "motor",
+        "description": "Runs"
+    },
+    {
+        "age_months": 24,
+        "category": "motor",
+        "description": "Eats with a spoon"
+    },
+    {
+        "age_months": 24,
+        "category": "motor",
+        "description": "Walks (not climbs) up a few stairs with or without help"
+    },
+    {
+        "age_months": 30,
+        "category": "social",
+        "description": "Plays next to other children and sometimes plays with them"
+    },
+    {
+        "age_months": 30,
+        "category": "social",
+        "description": "Shows you what she can do by saying, “Look at me!”"
+    },
+    {
+        "age_months": 30,
+        "category": "social",
+        "description": "Follows simple routines when told, like helping to pick up toys when you say, “It’s clean-up time.”"
+    },
+    {
+        "age_months": 30,
+        "category": "language",
+        "description": "Says about 50 words"
+    },
+    {
+        "age_months": 30,
+        "category": "language",
+        "description": "Says two or more words together, with one action word, like “Doggie run”"
+    },
+    {
+        "age_months": 30,
+        "category": "language",
+        "description": "Names things in a book when you point and ask, “What is this?”"
+    },
+    {
+        "age_months": 30,
+        "category": "language",
+        "description": "Says words like “I,” “me,” or “we”"
+    },
+    {
+        "age_months": 30,
+        "category": "cognitive",
+        "description": "Uses things to pretend, like feeding a block to a doll as if it were food"
+    },
+    {
+        "age_months": 30,
+        "category": "cognitive",
+        "description": "Follows two-step instructions like “Put the toy down and close to the door.”"
+    },
+    {
+        "age_months": 30,
+        "category": "cognitive",
+        "description": "Shows he knows at least one color, like pointing to a red crayon when you ask, “Which one is red?”"
+    },
+    {
+        "age_months": 30,
+        "category": "cognitive",
+        "description": "Shows simple problem-solving skills, like standing on a small stool to reach something"
+    },
+    {
+        "age_months": 30,
+        "category": "motor",
+        "description": "Uses hands to twist things, like turning doorknobs or unscrewing lids"
+    },
+    {
+        "age_months": 30,
+        "category": "motor",
+        "description": "Takes some clothes off by himself, like loose pants or an open jacket"
+    },
+    {
+        "age_months": 30,
+        "category": "motor",
+        "description": "Jumps off the ground with both feet"
+    },
+    {
+        "age_months": 30,
+        "category": "motor",
+        "description": "Turns book pages, one at a time, when you read to her"
+    },
+    {
+        "age_months": 36,
+        "category": "social",
+        "description": "Calms down within 10 minutes after you leave her,like at a childcare drop off"
+    },
+    {
+        "age_months": 36,
+        "category": "social",
+        "description": "Notices other children and joins them to play"
+    },
+    {
+        "age_months": 36,
+        "category": "language",
+        "description": "Talks with you in conversation using at least two back-and-forth exchanges"
+    },
+    {
+        "age_months": 36,
+        "category": "language",
+        "description": "Asks “who,” “what,” “where,” or “why” questions,like “Where is mommy/daddy?”"
+    },
+    {
+        "age_months": 36,
+        "category": "language",
+        "description": "Says what action is happening in a picture or book when asked, like “running,” “eating,” or “playing”"
+    },
+    {
+        "age_months": 36,
+        "category": "language",
+        "description": "Says first name, when asked"
+    },
+    {
+        "age_months": 36,
+        "category": "language",
+        "description": "Talks well enough for others to understand, most of the time"
+    },
+    {
+        "age_months": 36,
+        "category": "cognitive",
+        "description": "Draws a circle, when you show him how"
+    },
+    {
+        "age_months": 36,
+        "category": "cognitive",
+        "description": "Avoids touching hot objects, like a stove, when you warn her"
+    },
+    {
+        "age_months": 36,
+        "category": "motor",
+        "description": "Strings items together, like large beads or macaroni"
+    },
+    {
+        "age_months": 36,
+        "category": "motor",
+        "description": "Puts on some clothes by himself, like loose pants or a jacket"
+    },
+    {
+        "age_months": 36,
+        "category": "motor",
+        "description": "Uses a fork"
+    },
+    {
+        "age_months": 48,
+        "category": "social",
+        "description": "Pretends to be something else during play (teacher, superhero, dog)"
+    },
+    {
+        "age_months": 48,
+        "category": "social",
+        "description": "Asks to go play with children if none are around, like “Can I play with Alex?”"
+    },
+    {
+        "age_months": 48,
+        "category": "social",
+        "description": "Comforts others who are hurt or sad, like hugging a crying friend"
+    },
+    {
+        "age_months": 48,
+        "category": "social",
+        "description": "Avoids danger, like not jumping from tall heights at the playground"
+    },
+    {
+        "age_months": 48,
+        "category": "social",
+        "description": "Likes to be a “helper”"
+    },
+    {
+        "age_months": 48,
+        "category": "social",
+        "description": "Changes behavior based on where she is (place of worship, library, playground)"
+    },
+    {
+        "age_months": 48,
+        "category": "language",
+        "description": "Says sentences with four or more words"
+    },
+    {
+        "age_months": 48,
+        "category": "language",
+        "description": "Says some words from a song, story, or nursery rhyme"
+    },
+    {
+        "age_months": 48,
+        "category": "language",
+        "description": "Talks about at least one thing that happened during his day, like “I played soccer.”"
+    },
+    {
+        "age_months": 48,
+        "category": "language",
+        "description": "Answers simple questions like “What is a coat for?”or “What is a crayon for?”"
+    },
+    {
+        "age_months": 48,
+        "category": "cognitive",
+        "description": "Names a few colors of items"
+    },
+    {
+        "age_months": 48,
+        "category": "cognitive",
+        "description": "Tells what comes next in a well-known story"
+    },
+    {
+        "age_months": 48,
+        "category": "cognitive",
+        "description": "Draws a person with three or more body parts"
+    },
+    {
+        "age_months": 48,
+        "category": "motor",
+        "description": "Catches a large ball most of the time"
+    },
+    {
+        "age_months": 48,
+        "category": "motor",
+        "description": "Serves himself food or pours water, with adult supervision"
+    },
+    {
+        "age_months": 48,
+        "category": "motor",
+        "description": "Unbuttons some buttons"
+    },
+    {
+        "age_months": 48,
+        "category": "motor",
+        "description": "Holds crayon or pencil between fingers and thumb (not a fist)"
+    },
+    {
+        "age_months": 60,
+        "category": "social",
+        "description": "Follows rules or takes turns when playing games with other children"
+    },
+    {
+        "age_months": 60,
+        "category": "social",
+        "description": "Sings, dances, or acts for you"
+    },
+    {
+        "age_months": 60,
+        "category": "social",
+        "description": "Does simple chores at home, like matching socks or clearing the table after eating"
+    },
+    {
+        "age_months": 60,
+        "category": "language",
+        "description": "Tells a story she heard or made up with at least two events. For example, a cat was stuck in a tree and a firefighter saved it"
+    },
+    {
+        "age_months": 60,
+        "category": "language",
+        "description": "Answers simple questions about a book or story after you read or tell it to him"
+    },
+    {
+        "age_months": 60,
+        "category": "language",
+        "description": "Keeps a conversation going with more than three back-and-forth exchanges"
+    },
+    {
+        "age_months": 60,
+        "category": "language",
+        "description": "Uses or recognizes simple rhymes (bat-cat, ball-tall)"
+    },
+    {
+        "age_months": 60,
+        "category": "cognitive",
+        "description": "Counts to 10"
+    },
+    {
+        "age_months": 60,
+        "category": "cognitive",
+        "description": "Names some numbers between 1 and 5 when you point to them"
+    },
+    {
+        "age_months": 60,
+        "category": "cognitive",
+        "description": "Uses words about time, like “yesterday,” “tomorrow,” “morning,” or “night”"
+    },
+    {
+        "age_months": 60,
+        "category": "cognitive",
+        "description": "Pays attention for 5 to 10 minutes during activities.For example, during story time or making arts and crafts (screen time does not count)"
+    },
+    {
+        "age_months": 60,
+        "category": "cognitive",
+        "description": "Writes some letters in her name"
+    },
+    {
+        "age_months": 60,
+        "category": "cognitive",
+        "description": "Names some letters when you point to them"
+    },
+    {
+        "age_months": 60,
+        "category": "motor",
+        "description": "Buttons some buttons"
+    },
+    {
+        "age_months": 60,
+        "category": "motor",
+        "description": "Hops on one foot"
+    }
+]
