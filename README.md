@@ -1,5 +1,3 @@
-
-```markdown name=README.md
 # 👶 KidPort - Baby Care Recommendation System
 
 <div align="center">
